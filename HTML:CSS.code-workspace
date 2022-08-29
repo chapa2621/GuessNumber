@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../HTML:CSS"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "complete-javascript-course-master"
+	}
+}
